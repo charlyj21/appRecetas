@@ -1,0 +1,2 @@
+# appRecetas
+Aplicativo de recetas.
