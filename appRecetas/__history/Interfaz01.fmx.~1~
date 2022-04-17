@@ -2,7 +2,6 @@ object Form1: TForm1
   Left = 362
   Top = 149
   BorderIcons = [biSystemMenu, biMinimize]
-  BorderStyle = Single
   Caption = 'AppRecetas'
   ClientHeight = 480
   ClientWidth = 545

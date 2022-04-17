@@ -2,14 +2,14 @@
 <BorlandProject>
 	<Transactions>
     <Transaction>2022/04/14 14:43:09.000.594,=C:\Users\carlo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2022/04/14 17:44:55.000.185,C:\Users\carlo\Documents\Embarcadero\Studio\Projects\Unit1.fmx=C:\Users\carlo\Documents\Embarcadero\Studio\Projects\MedioCursoFH\appRecetas.fmx</Transaction>
-    <Transaction>2022/04/14 17:44:55.000.185,C:\Users\carlo\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\carlo\Documents\Embarcadero\Studio\Projects\MedioCursoFH\appRecetas.pas</Transaction>
-    <Transaction>2022/04/14 17:48:24.000.336,C:\Users\carlo\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\PROYECTOS\appRecetas\Project1.dproj</Transaction>
-    <Transaction>2022/04/14 18:01:05.000.665,C:\Users\carlo\Documents\Embarcadero\Studio\Projects\MedioCursoFH\appRecetas.fmx=D:\PROYECTOS\appRecetas\appRecetas.fmx</Transaction>
-    <Transaction>2022/04/14 18:01:05.000.665,C:\Users\carlo\Documents\Embarcadero\Studio\Projects\MedioCursoFH\appRecetas.pas=D:\PROYECTOS\appRecetas\appRecetas.pas</Transaction>
-    <Transaction>2022/04/16 21:02:18.325,D:\PROYECTOS\prueba\appRecetas\Interfaz01.fmx=D:\PROYECTOS\appRecetas\appRecetas.fmx</Transaction>
-    <Transaction>2022/04/16 21:02:18.325,D:\PROYECTOS\prueba\appRecetas\Interfaz01.pas=D:\PROYECTOS\appRecetas\appRecetas.pas</Transaction>
-    <Transaction>2022/04/16 21:02:33.822,D:\PROYECTOS\prueba\appRecetas\appRecetas.dproj=D:\PROYECTOS\appRecetas\Project1.dproj</Transaction>
+    <Transaction>2022/04/14 17:44:55.000.185,C:\Users\carlo\Documents\Embarcadero\Studio\Projects\MedioCursoFH\appRecetas.pas=C:\Users\carlo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/04/14 17:44:55.000.185,C:\Users\carlo\Documents\Embarcadero\Studio\Projects\MedioCursoFH\appRecetas.fmx=C:\Users\carlo\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2022/04/14 17:48:24.000.336,D:\PROYECTOS\appRecetas\Project1.dproj=C:\Users\carlo\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/04/14 18:01:05.000.665,D:\PROYECTOS\appRecetas\appRecetas.pas=C:\Users\carlo\Documents\Embarcadero\Studio\Projects\MedioCursoFH\appRecetas.pas</Transaction>
+    <Transaction>2022/04/14 18:01:05.000.665,D:\PROYECTOS\appRecetas\appRecetas.fmx=C:\Users\carlo\Documents\Embarcadero\Studio\Projects\MedioCursoFH\appRecetas.fmx</Transaction>
+    <Transaction>2022/04/16 21:02:18.000.325,D:\PROYECTOS\appRecetas\appRecetas.fmx=D:\PROYECTOS\prueba\appRecetas\Interfaz01.fmx</Transaction>
+    <Transaction>2022/04/16 21:02:18.000.325,D:\PROYECTOS\appRecetas\appRecetas.pas=D:\PROYECTOS\prueba\appRecetas\Interfaz01.pas</Transaction>
+    <Transaction>2022/04/16 21:02:33.000.822,D:\PROYECTOS\appRecetas\Project1.dproj=D:\PROYECTOS\prueba\appRecetas\appRecetas.dproj</Transaction>
   </Transactions>
 	<ActiveMobileDevice>
 		<NoProfile Android64=""/>
