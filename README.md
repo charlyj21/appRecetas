@@ -12,5 +12,5 @@ https://github.com/charlyj21/appRecetas/blob/master/appRecetas/Win32/Debug/appRe
 (OPCIONAL) DESCARGUE EL MEMO.DAT PARA TENER UNOS DATOS POR DEFAULT<br>
 https://github.com/charlyj21/appRecetas/blob/master/appRecetas/Win32/Debug/memo.DAT
 <br><br>
-A TENER EN CUENTA:
-appRecetas.exe y memo.DAT tiene que estar en la misma ruta.
+<b>A TENER EN CUENTA:</b><br>
+<b>appRecetas.exe y memo.DAT tienen que estar en la misma ruta.</b>
