@@ -10,7 +10,8 @@ DESCARGUE APPRECETAS DIRECTAMENTE DESDE ESTE LINK<br>
 https://raw.githubusercontent.com/charlyj21/appRecetas/master/appRecetas/Win32/Debug/appRecetas.exe
 <br><br>
 (OPCIONAL) DESCARGUE EL MEMO.DAT PARA TENER UNOS DATOS POR DEFAULT<br>
-https://raw.githubusercontent.com/charlyj21/appRecetas/master/appRecetas/Win32/Debug/memo.DAT
+https://raw.githubusercontent.com/charlyj21/appRecetas/master/appRecetas/Win32/Debug/memo.DAT <br>
+Click derecho > guardar como
 <br><br>
 <b>A TENER EN CUENTA:</b><br>
 <b>appRecetas.exe y memo.DAT tienen que estar en la misma ruta.</b>
